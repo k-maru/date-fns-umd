@@ -1,0 +1,16 @@
+{
+    "name": "date-fns-umd",
+    "version": "2.16.1",
+    "description": "UMD module of the date-fns.",
+    "mosulw": "dist/date-fns-umd.js",
+    "keywords": [
+        "date-fns"
+    ],
+    "author": "kazuhide maruyama",
+    "license": "MIT",
+    "devDependencies": {
+        "webpack": "^4.44.2",
+        "webpack-cli": "^3.3.12",
+        "date-fns": "2.16.1"
+    }
+}
